@@ -19,7 +19,6 @@ jobs:
         env:
           CI: true
           DEPLOY_TARGET: gh-pages
-      - run: touch out/.nojekyll
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@3.7.1
