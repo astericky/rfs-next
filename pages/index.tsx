@@ -11,7 +11,7 @@ const Header = styled.header`
 `
 
 const IndexPage = () => (
-  <Layout title="Home | Next.js + TypeScript Example">
+  <Layout title="Home | Next.js + TypeScript Example 2">
     <Header>Hello styled components!</Header>
     <h1>Hello Next.js 👋</h1>
     <p>
